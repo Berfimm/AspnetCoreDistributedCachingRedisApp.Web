@@ -1,0 +1,2 @@
+# AspnetCoreDistributedCachingRedisApp.Web
+ AspnetCoreDistributedCachingRedis App With Docker
