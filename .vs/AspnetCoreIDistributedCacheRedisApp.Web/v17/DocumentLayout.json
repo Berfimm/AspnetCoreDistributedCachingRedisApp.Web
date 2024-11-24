@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|c:\\users\\berfim.korkmaz\\source\\repos\\aspnetcoreidistributedcacheredisapp.web\\idistributedcacheredisapp.web\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|solutionrelative:idistributedcacheredisapp.web\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|c:\\users\\berfim.korkmaz\\source\\repos\\aspnetcoreidistributedcacheredisapp.web\\idistributedcacheredisapp.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|solutionrelative:idistributedcacheredisapp.web\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|c:\\users\\berfim.korkmaz\\source\\repos\\aspnetcoreidistributedcacheredisapp.web\\idistributedcacheredisapp.web\\views\\products\\imagecache.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|solutionrelative:idistributedcacheredisapp.web\\views\\products\\imagecache.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|c:\\users\\berfim.korkmaz\\source\\repos\\aspnetcoreidistributedcacheredisapp.web\\idistributedcacheredisapp.web\\views\\products\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|solutionrelative:idistributedcacheredisapp.web\\views\\products\\show.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|c:\\users\\berfim.korkmaz\\source\\repos\\aspnetcoreidistributedcacheredisapp.web\\idistributedcacheredisapp.web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|solutionrelative:idistributedcacheredisapp.web\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|c:\\users\\berfim.korkmaz\\source\\repos\\aspnetcoreidistributedcacheredisapp.web\\idistributedcacheredisapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD031DEA-2D26-4A15-B5B2-730BDE158489}|IDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web.csproj|solutionrelative:idistributedcacheredisapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IDistributedCacheRedisApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IDistributedCacheRedisApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:25:34.632Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Controllers\\Products.cs",
+              "RelativeDocumentMoniker": "IDistributedCacheRedisApp.Web\\Controllers\\Products.cs",
+              "ToolTip": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Controllers\\Products.cs",
+              "RelativeToolTip": "IDistributedCacheRedisApp.Web\\Controllers\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:20:07.077Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "IDistributedCacheRedisApp.Web\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "IDistributedCacheRedisApp.Web\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:25:28.58Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Show.cshtml",
+              "DocumentMoniker": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Products\\Show.cshtml",
+              "RelativeDocumentMoniker": "IDistributedCacheRedisApp.Web\\Views\\Products\\Show.cshtml",
+              "ToolTip": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Products\\Show.cshtml",
+              "RelativeToolTip": "IDistributedCacheRedisApp.Web\\Views\\Products\\Show.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:58:57.244Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImageCache.cshtml",
+              "DocumentMoniker": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Products\\ImageCache.cshtml",
+              "RelativeDocumentMoniker": "IDistributedCacheRedisApp.Web\\Views\\Products\\ImageCache.cshtml",
+              "ToolTip": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Views\\Products\\ImageCache.cshtml",
+              "RelativeToolTip": "IDistributedCacheRedisApp.Web\\Views\\Products\\ImageCache.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T13:33:48.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "IDistributedCacheRedisApp.Web\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\berfim.korkmaz\\source\\repos\\AspnetCoreIDistributedCacheRedisApp.Web\\IDistributedCacheRedisApp.Web\\Models\\Product.cs",
+              "RelativeToolTip": "IDistributedCacheRedisApp.Web\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:12:45.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
